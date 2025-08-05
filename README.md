@@ -17,4 +17,3 @@ A fully functional fitness club website built with **TypeScript**, **React**, an
 - **Class Schedule Management**: Add, update, or remove gym classes with customizable details like duration, timing, and pricing.  
 - **Location Management**: Manage multiple gym branches via an integrated map system.  
 - **Database-Driven Access**: FullSQLite database to handle user and class data efficiently.
-- 
