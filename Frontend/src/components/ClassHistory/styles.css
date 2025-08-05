@@ -1,0 +1,16 @@
+.center {
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    /* background-color: rgba(212, 254, 255, 0.685); */
+    width: 35%;
+    /* height: 400px;
+    padding-top: 100px; */
+}
+
+.mytext {
+    font-size: x-large;
+}
