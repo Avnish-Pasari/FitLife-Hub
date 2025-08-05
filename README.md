@@ -1,6 +1,6 @@
 # Gym Fitness Club Website 🏋️‍♂️
 
-A fully functional fitness club website built with **TypeScript**, **React**, and **Django**, designed to provide a seamless and engaging experience for gym members and administrators.  
+A fully functional fitness club website, designed to provide a seamless and engaging experience for gym members and administrators.  
 
 ## 🚀 Features
 
