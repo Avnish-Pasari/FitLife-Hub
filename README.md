@@ -1,4 +1,4 @@
-# Gym Fitness Club Website 🏋️‍♂️
+# FitLife Hub – Smart Fitness Club Platform 🏋️‍♂️
 
 A fully functional fitness club website, designed to provide a seamless and engaging experience for gym members and administrators.  
 
